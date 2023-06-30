@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-	"net/http"
-	_ "net/http/pprof"
 )
 
 func InsertBracket(record *map[string]bool, base string, num int) {
@@ -62,9 +60,5 @@ func generateParenthesis_2(n int) (ans []string) {
 }
 
 func main() {
-	go func() {
-		http.ListenAndServe("0.0.0.0:8080", nil)
-	}()
 	fmt.Println(generateParenthesis_2(20))
-
 }
