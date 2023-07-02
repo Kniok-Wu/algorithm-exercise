@@ -12,3 +12,4 @@
 
 # 3. 数组类
 - leetcode_704 二分查找 Simple
+- leetcode_27  移除元素 Simple
