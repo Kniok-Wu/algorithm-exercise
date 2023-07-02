@@ -6,5 +6,9 @@
 
 
 # 2. 回溯法
-- leetcode_17 电话号码的字母组合
-- leetcode_22 括号生成
+- leetcode_17 电话号码的字母组合 Medium
+- leetcode_22 括号生成 Medium
+
+
+# 3. 数组类
+- leetcode_704 二分查找 Simple
