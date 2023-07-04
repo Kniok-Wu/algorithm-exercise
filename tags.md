@@ -18,3 +18,6 @@
 - leetcode_209 长度最小的子数组 Medium
 - leetcode_704 二分查找 Simple
 - leetcode_977 有序数组的平方 Simple
+
+# 4. 链表
+- leetcode_203 移除链表元素 Simple
