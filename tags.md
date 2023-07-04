@@ -20,6 +20,7 @@
 - leetcode_977 有序数组的平方 Simple
 
 # 4. 链表
+- leetcode_24 两两交换链表中的节点 Medium
 - leetcode_203 移除链表元素 Simple
 - leetcode_206 反转链表 Simple
 - leetcode_707 设计链表 Medium
