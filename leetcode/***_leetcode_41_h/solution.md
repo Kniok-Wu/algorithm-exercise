@@ -10,3 +10,5 @@
 > 注意: 是num，不是下标i；
 > 至于绝对值，假设输入 []int{4, 1, 2, 3}，那么在遍历到4时，就会将3变为-3，如果不加绝对值，3这个数字就会丢失。
 - 遍历数组，如果存在非负数，则返回下标i + 1，没有则返回 n + 1
+
+参考链接: https://leetcode.cn/problems/first-missing-positive/solutions/304743/que-shi-de-di-yi-ge-zheng-shu-by-leetcode-solution/
