@@ -31,3 +31,4 @@
 
 # 5. 哈希表类
 - leetcode_242 有效的字母异位词 Simple
+- leetcode_349 两个数组的交集 Simple
