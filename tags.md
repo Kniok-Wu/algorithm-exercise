@@ -31,5 +31,6 @@
 - leetcode_707 设计链表 Medium
 
 # 5. 哈希表类
+- leetcode_1 两数之和 Simple
 - leetcode_242 有效的字母异位词 Simple
 - leetcode_349 两个数组的交集 Simple
