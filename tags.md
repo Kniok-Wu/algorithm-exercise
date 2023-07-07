@@ -38,5 +38,6 @@
 - leetcode_454 两个数组的交集 Simple
 
 # 6. 字符串
+- leetcode_14 最长公共前缀 Simple
 - leetcode_43 字符串相乘 Medium
 - leetcode_344 反转字符串 Simple
