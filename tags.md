@@ -39,3 +39,4 @@
 
 # 6. 字符串
 - leetcode_43 字符串相乘 Medium
+- leetcode_344 反转字符串 Simple
