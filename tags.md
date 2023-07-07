@@ -32,6 +32,10 @@
 
 # 5. 哈希表类
 - leetcode_1 两数之和 Simple
+- leetcode_18 四数之和 Simple
 - leetcode_242 有效的字母异位词 Simple
 - leetcode_349 两个数组的交集 Simple
 - leetcode_454 两个数组的交集 Simple
+
+# 6. 字符串
+- leetcode_43 字符串相乘 Medium
