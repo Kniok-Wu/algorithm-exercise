@@ -14,11 +14,12 @@
 - leetcode_22 括号生成 Medium
 
 
-# 3. 数组类
+# 3. 数组类/栈
 - leetcode_27  移除元素 Simple
 - leetcode_41  缺失的第一个正数 Hard
 - leetcode_59  螺旋矩阵 Medium
 - leetcode_209 长度最小的子数组 Medium
+- leetcode_232 用栈实现队列 Simple
 - leetcode_704 二分查找 Simple
 - leetcode_977 有序数组的平方 Simple
 
