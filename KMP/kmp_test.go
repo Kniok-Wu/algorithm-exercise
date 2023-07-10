@@ -6,5 +6,8 @@ import (
 )
 
 func TestKMP(t *testing.T) {
-	fmt.Println(KMP("BBC ABCDAB ABCDABCDABDE", "ABCDABD"))
+	str := "BBC ABCDAB ABCDABCDABDE"
+	subStr := "ABCDABD"
+	idx := KMP(str, subStr)
+	fmt.Println(str[idx : idx+len(subStr)])
 }

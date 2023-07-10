@@ -13,20 +13,19 @@ func KMP(str, subStr string) int {
 		prefix[i] = k
 	}
 
-	for i := 0; i < len(str); {
-		j := 0
-		for ; j < len(subStr); j++ {
-			if subStr[j] != str[i+j] {
-				if j == 0 {
-					i += 1
-				} else {
-					i += prefix[j-1] + 1
-				}
-				break
-			}
+	i, j := 0, 0
+	for i < len(str) {
+		if str[i] == subStr[j] {
+			i += 1
+			j += 1
+		} else if j == 0 {
+			i += 1
+		} else {
+			j = prefix[j-1]
 		}
+
 		if j == len(subStr) {
-			return i
+			return i - j
 		}
 	}
 
