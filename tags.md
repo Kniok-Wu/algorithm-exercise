@@ -48,3 +48,6 @@
 - leetcode_344 反转字符串 Simple
 - leetcode_459 重复的子字符串 Simple
 - leetcode_541 反转字符串II Simple
+
+# 7. 目前没有分类
+- leetcode_50 Pow(x, n) Medium
