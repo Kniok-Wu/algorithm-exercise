@@ -15,6 +15,7 @@
 
 
 # 3. 数组类/栈/队列
+- leetcode_20  有效的括号 Simple
 - leetcode_27  移除元素 Simple
 - leetcode_41  缺失的第一个正数 Hard
 - leetcode_59  螺旋矩阵 Medium
@@ -23,6 +24,7 @@
 - leetcode_232 用栈实现队列 Simple
 - leetcode_704 二分查找 Simple
 - leetcode_977 有序数组的平方 Simple
+- leetcode_1047 删除字符串中的所有相邻重复项 Simple
 
 # 4. 链表
 - leetcode_19 删除链表的倒数第 N 个结点 Medium
