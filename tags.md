@@ -53,8 +53,9 @@
 - leetcode_541 反转字符串II Simple
 
 # 7. 树
+- leetcode_94 二叉树的中序遍历 Simple
 - leetcode_102 二叉树的层序遍历 Medium 
-- leetcode_144 二叉树的前序遍历 Simple 
+- leetcode_144 二叉树的前序遍历 Simple
 - leetcode_145 二叉树的后序遍历 Simple 
 
 # 8. 目前没有分类
