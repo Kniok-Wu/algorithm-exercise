@@ -59,6 +59,7 @@
 - leetcode_104 二叉树的最大深度 Simple 
 - leetcode_110 平衡二叉树 Simple 
 - leetcode_111 二叉树的最小深度 Simple 
+- leetcode_112 路径总和 Simple 
 - leetcode_144 二叉树的前序遍历 Simple
 - leetcode_145 二叉树的后序遍历 Simple 
 - leetcode_222 完全二叉树的节点个数 Medium
