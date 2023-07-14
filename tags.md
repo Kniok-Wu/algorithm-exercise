@@ -62,6 +62,7 @@
 - leetcode_144 二叉树的前序遍历 Simple
 - leetcode_145 二叉树的后序遍历 Simple 
 - leetcode_222 完全二叉树的节点个数 Medium
+- leetcode_257 二叉树的所有路径 Simple
 
 # 8. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
