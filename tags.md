@@ -54,6 +54,7 @@
 
 # 7. 树
 - leetcode_94 二叉树的中序遍历 Simple
+- leetcode_98 验证二叉搜索树 Medium
 - leetcode_101 对称二叉树 Simple
 - leetcode_102 二叉树的层序遍历 Medium 
 - leetcode_104 二叉树的最大深度 Simple 
