@@ -57,6 +57,7 @@
 - leetcode_101 对称二叉树 Simple
 - leetcode_102 二叉树的层序遍历 Medium 
 - leetcode_104 二叉树的最大深度 Simple 
+- leetcode_106 从中序与后序遍历序列构造二叉树 Medium
 - leetcode_110 平衡二叉树 Simple 
 - leetcode_111 二叉树的最小深度 Simple 
 - leetcode_112 路径总和 Simple 
