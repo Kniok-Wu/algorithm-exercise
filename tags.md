@@ -67,6 +67,7 @@
 - leetcode_257 二叉树的所有路径 Simple
 - leetcode_404 左叶子之和 Simple
 - leetcode_513 找二叉树左下角的值 Medium
+- leetcode_654 最大二叉树 Medium
 
 # 8. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
