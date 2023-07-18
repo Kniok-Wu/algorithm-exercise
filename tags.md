@@ -68,6 +68,7 @@
 - leetcode_257 二叉树的所有路径 Simple
 - leetcode_404 左叶子之和 Simple
 - leetcode_513 找二叉树左下角的值 Medium
+- leetcode_501 二叉搜索树中的众数 Simple
 - leetcode_530 二叉搜索树的最小绝对差 Simple
 - leetcode_617 合并二叉树 Simple
 - leetcode_654 最大二叉树 Medium
