@@ -69,6 +69,7 @@
 - leetcode_236 二叉树的最近公共祖先 Medium
 - leetcode_257 二叉树的所有路径 Simple
 - leetcode_404 左叶子之和 Simple
+- leetcode_450 删除二叉搜索树中的节点 Medium
 - leetcode_513 找二叉树左下角的值 Medium
 - leetcode_501 二叉搜索树中的众数 Simple
 - leetcode_530 二叉搜索树的最小绝对差 Simple
