@@ -75,6 +75,7 @@
 - leetcode_617 合并二叉树 Simple
 - leetcode_654 最大二叉树 Medium
 - leetcode_700 二叉搜索树中的搜索 Simple
+- leetcode_701 二叉搜索树中的插入操作 Medium
 
 # 8. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
