@@ -31,7 +31,7 @@ func combine(n int, k int) [][]int {
 }
 
 func main() {
-	n, k := 5, 4
+	n, k := 20, 10
 
 	for _, each := range combine(n, k) {
 		fmt.Println(each)
