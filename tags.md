@@ -81,5 +81,8 @@
 - leetcode_700 二叉搜索树中的搜索 Simple
 - leetcode_701 二叉搜索树中的插入操作 Medium
 
-# 8. 目前没有分类
+# 8. 回溯问题
+- leetcode_77 组合 Medium
+
+# 9. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
