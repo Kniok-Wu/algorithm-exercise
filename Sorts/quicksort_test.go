@@ -6,7 +6,7 @@ import (
 )
 
 func TestQuickSort(t *testing.T) {
-	nums := []int{2, 3}
-	QuickSort(nums)
+	nums := []int{7, 10, 2, 5, 8, 4, 3, 9, 15}
+	nums = heapSort(nums)
 	fmt.Println(nums)
 }
