@@ -84,6 +84,7 @@
 # 8. 回溯问题
 - leetcode_39 组合总和 Medium
 - leetcode_40 组合总和II Medium
+- leetcode_46 全排列 Medium
 - leetcode_77 组合 Medium
 - leetcode_78 子集 Medium
 - leetcode_90 子集II Medium
