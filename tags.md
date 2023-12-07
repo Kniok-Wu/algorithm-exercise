@@ -82,6 +82,7 @@
 - leetcode_701 二叉搜索树中的插入操作 Medium
 
 # 8. 回溯问题
+- leetcode_37 解数独 Hard
 - leetcode_39 组合总和 Medium
 - leetcode_40 组合总和II Medium
 - leetcode_46 全排列 Medium
