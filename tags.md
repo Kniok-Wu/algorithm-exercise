@@ -95,6 +95,9 @@
 - leetcode_131 分割回文串 Medium
 - leetcode_216 组合总和 III Medium
 
-# 9. 目前没有分类
+# 9. 动态规划
+- leetcode_746 使用最小花费爬楼梯 Simple
+
+# 10. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
 - leetcode_168 Excel表格 Simple
