@@ -98,6 +98,7 @@
 # 9. 动态规划
 - leetcode_746 使用最小花费爬楼梯 Simple
 - leetcode_62 不同路径 Medium
+- leetcode_63 不同路径II Medium
 
 # 10. 目前没有分类
 - leetcode_50 Pow(x, n) Medium
