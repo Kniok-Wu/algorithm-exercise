@@ -98,6 +98,7 @@
 # 9. 动态规划
 - leetcode_62 不同路径 Medium
 - leetcode_63 不同路径II Medium
+- leetcode_96 不同的二叉搜索树 Medium
 - leetcode_343 整数拆分 Medium
 - leetcode_746 使用最小花费爬楼梯 Simple
 
