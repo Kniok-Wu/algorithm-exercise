@@ -10,6 +10,6 @@ dp[i] = max(items[i].Value + dp[i-1][j - items[i].Weight], dp[i-1][j])
 - 默认选择当前元素`items[i]`，求得剩余容量`j - weights[i]`，并根据剩余容量在dp数组中找到元素`i-1`时对应的最大价值，相加得到最大价值。
 - 将当前价值与上层同容量价值比对，选择较大的一个。
 
-<image src="./image.png" />
+<image src="./image.png"></image>
 
 
