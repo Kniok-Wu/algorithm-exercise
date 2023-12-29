@@ -99,6 +99,7 @@
 - leetcode_62 不同路径 Medium
 - leetcode_63 不同路径II Medium
 - leetcode_96 不同的二叉搜索树 Medium
+- leetcode_279 完全平方数 Medium
 - leetcode_343 整数拆分 Medium
 - leetcode_377 组合总和 Ⅳ Medium
 - leetcode_416 分割等和子集 Medium
