@@ -11,27 +11,26 @@ package main
 import "fmt"
 
 func rob(nums []int) int {
+	dp := make([]int, len(nums))
 
-	max := nums[0]
+	for i := 0; i < len(nums); i++ {
+		dp[i] = nums[i]
 
-	dp := make([]int, len(nums)+1)
-	dp[1] = nums[0]
+		last1 := i - 1
+		last2 := i - 2
 
-	for i := 2; i <= len(nums); i++ {
-		for j := i - 2; j >= 0; j-- {
-			if dp[i] < nums[i-1]+dp[j] {
-				dp[i] = nums[i-1] + dp[j]
-			}
+		if last2 >= 0 {
+			dp[i] += dp[last2]
 		}
 
-		if dp[i] > max {
-			max = dp[i]
+		if last1 >= 0 && dp[i] < dp[last1] {
+			dp[i] = dp[last1]
 		}
 	}
 
-	return max
+	return dp[len(nums)-1]
 }
 
 func main() {
-	fmt.Println(rob([]int{1}))
+	fmt.Println(rob([]int{2, 7, 9, 3, 1}))
 }

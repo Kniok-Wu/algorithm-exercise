@@ -31,24 +31,21 @@ func rob(nums []int) int {
 
 func subRob(nums []int) int {
 	n := len(nums)
-	max := nums[0]
 	dp := make([]int, n)
 
 	for i := 0; i < n; i++ {
 		dp[i] = nums[i]
 
-		for j := i - 2; j >= 0; j-- {
-			if nums[i]+dp[j] > dp[i] {
-				dp[i] = nums[i] + dp[j]
-			}
+		if last2 := i - 2; last2 >= 0 {
+			dp[i] += dp[last2]
 		}
 
-		if dp[i] > max {
-			max = dp[i]
+		if last1 := i - 1; last1 >= 0 && dp[last1] > dp[i] {
+			dp[i] = dp[last1]
 		}
 	}
 
-	return max
+	return dp[n-1]
 }
 
 func main() {
