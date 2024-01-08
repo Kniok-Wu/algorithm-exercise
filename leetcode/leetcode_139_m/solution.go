@@ -29,5 +29,5 @@ func wordBreak(s string, wordDict []string) bool {
 }
 
 func main() {
-	fmt.Println(wordBreak("leetcode", []string{"leet", "code"}))
+	fmt.Println(wordBreak("leetcode_213_m", []string{"leet", "code"}))
 }
